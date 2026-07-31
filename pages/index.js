@@ -1,5 +1,5 @@
 function home(){
-    return <h1>Jaqueline Meu Amoooorrr, vocec e increvel nenem</h1>
+    return <h1></h1>
 }
 
 export default home;
